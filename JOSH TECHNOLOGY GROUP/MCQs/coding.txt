@@ -1,0 +1,2 @@
+50 MCQs on topics like pointers, OOPs, output prediction and DSA fundamentals. 
+The time limit was 50 minutes, and a good understanding of pointers, OOPs and DSA gives you an edge.

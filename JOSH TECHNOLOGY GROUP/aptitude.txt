@@ -1,0 +1,25 @@
+Time and Work: If A can do a job in 10 days and B in 15 days...
+Pipes and Cisterns: Two pipes fill and one drains...
+Age problems: Ratio of ages now and then
+Permutations and Combinations: Choosing committees
+Probability: Tossing two dice, what’s the chance of sum 7?
+Speed, Time, and Distance: Trains crossing each other
+Boats and Streams: Effective downstream/upstream speed
+Averages: Find missing value using average
+Profit and Loss: Marked price vs selling price
+Simple and Compound Interest
+Number Series: Find the missing number
+Coding-Decoding: Letter substitution problems
+Blood Relations: Who is the mother of X?
+Syllogisms and Logical Statements
+Direction Sense: Which direction is he facing now?
+Calendar problems: Day on 1st Jan 2000?
+Clocks: Angle between clock hands
+Mixtures and Alligation
+Algebraic equations with unknowns
+Data Interpretation (Bar Graphs, Pie Charts)
+Logical puzzles (Seating arrangements)
+Arithmetic Progression (AP), Geometric Progression (GP)
+Venn Diagrams and Set Theory
+Ratio and Proportion: Sharing money among friends
+Quant-based reasoning on real-life problems

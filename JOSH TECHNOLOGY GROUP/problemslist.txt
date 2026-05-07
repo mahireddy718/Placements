@@ -1,0 +1,26 @@
+Reverse a linked list
+Detect a cycle in a linked list (Floyd’s Algorithm)
+Find the middle of a linked list
+Merge two sorted linked lists
+Check if a string is a palindrome
+Longest substring without repeating characters
+Implement a stack using two queues
+Next greater element in an array
+Kadane’s algorithm (maximum subarray sum)
+Binary search on a rotated sorted array
+Count the number of set bits in an integer
+Lowest Common Ancestor in a Binary Tree
+Implement LRU Cache
+Find the Kth smallest/largest element in an array
+Check for balanced parentheses
+Dijkstra’s algorithm (shortest path)
+Sliding window maximum
+Top K frequent elements
+Subset sum / Power set generation (Backtracking)
+N-Queens problem
+Implement Trie (Prefix Tree)
+Cycle detection in a graph (DFS + Union Find)
+Binary tree level order traversal
+Count islands in a matrix (DFS/BFS)
+Implement Min Stack
+
